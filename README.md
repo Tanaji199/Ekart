@@ -1,13 +1,14 @@
+
 # Ekart Project
 
 ## Jenkins Pipeline
-![Jenkins Pipeline](https://github.com/Tanaji199/Ekart/blob/master/jenkins_pipeline.jpeg)
+![Jenkins Pipeline](https://raw.githubusercontent.com/Tanaji199/Ekart/master/jenkins_pipeline.jpeg)
 
 ## Ekart Login
-![Ekart Login](https://github.com/Tanaji199/Ekart/blob/master/ekart-login.jpeg)
+![Ekart Login](https://raw.githubusercontent.com/Tanaji199/Ekart/master/ekart-login.jpeg)
 
 ## Access the App
-![Access the App](https://github.com/Tanaji199/Ekart/blob/master/accecc%20the%20app.jpeg)
+![Access the App](https://raw.githubusercontent.com/Tanaji199/Ekart/master/accecc%20the%20app.jpeg)
 
 
 
