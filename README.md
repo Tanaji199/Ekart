@@ -1,3 +1,16 @@
+# Ekart Project
+
+## Jenkins Pipeline
+![Jenkins Pipeline](https://github.com/Tanaji199/Ekart/blob/master/jenkins_pipeline.jpeg)
+
+## Ekart Login
+![Ekart Login](https://github.com/Tanaji199/Ekart/blob/master/ekart-login.jpeg)
+
+## Access the App
+![Access the App](https://github.com/Tanaji199/Ekart/blob/master/accecc%20the%20app.jpeg)
+
+
+
 # Spring Boot Shopping Cart Web App
 
 ## About
